@@ -1,6 +1,6 @@
 # Fubo.tv/Connect - A brief Guide To Connect Fubo TV
 
-![[Fubo.tv Connect](get-started.png)]((https://fuboconnectv.com/))
+![[Fubo.tv Connect](https://fuboconnectv.com/)](get-started.png)
 
 1. Connecting Fubo TV to your device using [fubo.tv/connect](https://fuboconnectv.com) is a straightforward process. To begin, launch the Fubo app on your device. Look for the SIGN IN option and select it. You will need to enter the email address you used when signing up for Fubo, along with your password. This can be done using the built-in or on-screen keyboard of your device.
 
